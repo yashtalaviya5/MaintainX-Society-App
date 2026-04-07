@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255846162192",
+    "project_id": "society-maintenance-app-c68be",
+    "storage_bucket": "society-maintenance-app-c68be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255846162192:android:8142d1506b8b1213618f95",
+        "android_client_info": {
+          "package_name": "com.society.society_maintenance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCuSVtaYSTpACN41zFitqNvTBAg-70gSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
